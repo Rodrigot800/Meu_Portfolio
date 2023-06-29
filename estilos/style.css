@@ -71,5 +71,6 @@ main{
     margin: auto;
     width: 90vw;
     height: auto;
+    transform: translate(-100px,-100px);
     
 }
