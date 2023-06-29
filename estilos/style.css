@@ -18,7 +18,7 @@ body,html {
 header{
     margin-top: 0px;
     background-color: white;
-    width: 100vw;
+    width: 97vw;
     text-align: center;
 }
 #fixar{
@@ -51,8 +51,25 @@ menu{
     background-color: var(--cor4);
 }
 main{
-    height: 100vh;
-    background-image: linear-gradient(to top left, black,white) ;
-    background-color: var(--cor1);
+    height: 80vh;
+    width: 100vw;
+    margin: auto;
+    background-image: linear-gradient(to top left, var(--cor-1),50%, var(--cor2));
     color: white;
+    padding-top: 50px;
+    padding: 20px;
+    text-align: center;
+}
+#apresentação1{
+    background-color: rgba(255, 255, 255, 0.091);
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+#imagem1{
+    display: block;
+    margin: auto;
+    width: 90vw;
+    height: auto;
+    
 }

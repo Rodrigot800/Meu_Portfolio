@@ -8,5 +8,4 @@ function funcMenu() {
     } else {
         itens.style.display = 'block'
     }
-
 }
